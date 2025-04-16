@@ -28,3 +28,10 @@ Run all cells in the notebook to install dependencies, train, and evaluate the m
 
 
 ## Performance snapshot
+
+```
+mAP    0.3538  
+Accurancy   0.7537
+Backbone	Faster R-CNN with MobileNetV3-FPN  
+Training Epochs	10
+Dataset	Custom insect dataset with 10 classes
