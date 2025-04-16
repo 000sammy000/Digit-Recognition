@@ -9,6 +9,23 @@ For this task, we utilize the fasterrcnn_mobilenet_v3_large_fpn model, which inc
 
 
 ## How to install
+You can run this project directly in your browser using Google Colab. No local setup is needed.
+
+
+Steps:
+Click the badge above to open the notebook in Google Colab.
+
+Run all cells in the notebook to install dependencies, train, and evaluate the model.
+
+📦 All required packages will be installed automatically in the notebook. Example setup:
+
+python
+複製
+編輯
+!pip install torch torchvision
+!pip install -r requirements.txt
+⚠️ Make sure you are using a GPU runtime by going to
+Runtime > Change runtime type > Hardware accelerator > GPU.
 
 
 ## Performance snapshot
